@@ -1,0 +1,14 @@
+.cardContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1em;
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    text-align: center;
+    background-image: linear-gradient(to right, #0077c0, #6050DC);
+
+    font-size: 1.7em;
+
+}
