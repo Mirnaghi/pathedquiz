@@ -3,7 +3,7 @@ import "./QuizCard.css";
 
 function QuizCard(props) {
     return (
-        <div className="cardContainer">
+        <div className="cardContainer" onClick={props.onClick}>
             {props.children}
         </div>
     );

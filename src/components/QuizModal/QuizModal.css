@@ -1,0 +1,19 @@
+.Modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background-image: linear-gradient(to right, #0077c0, #6050DC);
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    transform: translate(-50%, -50%);
+}
+
+.Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.75);
+}

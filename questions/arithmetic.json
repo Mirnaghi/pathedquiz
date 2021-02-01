@@ -1,0 +1,44 @@
+{
+    "addition": [
+        {
+            "id": 1,
+            "question": "2 + 2",
+            "answer": 4
+        },
+        {
+            "id": 2,
+            "question": "3 + 3",
+            "answer": 6
+        },
+        {
+            "id": 3,
+            "question": "4 + 4",
+            "answer": 8
+        },
+        {
+            "id": 4,
+            "question": "12 + 22",
+            "answer": 34
+        },
+        {
+            "id": 5,
+            "question": "35 + 54",
+            "answer": 89
+        },
+        {
+            "id": 6,
+            "question": "50 + 25",
+            "answer": 75
+        },
+        {
+            "id": 7,
+            "question": "80 + 35",
+            "answer": 115
+        },
+        {
+            "id": 8,
+            "question": "27 + 42",
+            "answer": 69
+        }
+    ] 
+}

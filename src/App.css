@@ -1,9 +1,10 @@
 .App {
-  padding: 2em;
   display: flex;
+  padding: 2em;
+  height: 90vh;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .title {
@@ -16,5 +17,15 @@
 
 .quizContainer {
   display: flex;
-  margin-top: 2em;
+  /* margin-top: 2em; */
+}
+
+@media (max-width: 600px) {
+  .title {
+    text-align: center;
+  }
+
+  .quizContainer {
+    flex-direction: column;
+  }
 }
